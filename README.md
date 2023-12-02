@@ -1,6 +1,5 @@
-### Hi there 👋, Than Than Swe
-#### Data Science | Data Analyst  | AI Researcher 
 ![Data Science | Data Analyst  | AI Researcher ](https://pbs.twimg.com/profile_banners/1719739583704010752/1699107082/1080x360)
+### Hi there 👋, I'm Than Than Swe
 
 I'm Than Than Swe from Myanmar, and my background in Computer Science and a focus on data science, computer vision, and machine learning. I bring over four years of diverse industry experience. My expertise lies in building predictive models, conducting data analysis, and implementing data visualization techniques. Additionally, I have a year of experience as a software engineer with skills in distributed enterprise software and database application development.
 
