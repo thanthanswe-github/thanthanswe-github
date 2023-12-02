@@ -6,5 +6,5 @@ Additionally, I have a year of experience as a software engineer with skills in 
 
 I really enjoy learning languages and doing a technical research projects like AI and data science research areas. During my spare time, I enjoy teaching and sharing my learning experiences and knowledge with some of the students in Myanmar. You can also check out my https://www.linkedin.com/in/than-than-swe-0a52a216a/ or https://www.youtube.com/channel/UCflqO7IfA7eElVyzLE-TJ6g. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanthanswe&theme=dark&show_icons=true)
+
 
