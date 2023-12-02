@@ -13,7 +13,7 @@ I really enjoy learning languages and doing a technical research projects like A
 * ☁  Cloud Computing    : AWS Cloud Computing
 * 📌 Others             : Odoo(formerly OpenERP) Framework, Git, Linux, TensorFlow, Pytorch, CUDA and GPU, Docker, MLOps, Microsoft Apps(Power Automate, Power Apps, SharePoint),Data Mining Techniques,     Statistical Techniques.
 
-- 🔭 I’m currently working on a computer vision (AI) research at ConTILab at Chung Ang University, South Korea.
+- 🔭 I’m currently working on a computer vision (AI) research at ConTILab in Chung Ang University, South Korea.
 - 📫 How to reach me: thanthanswe124509@gmail.com 
 
 
